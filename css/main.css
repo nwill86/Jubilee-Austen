@@ -41,10 +41,11 @@ nav ul li {
 
 nav ul li a {
     text-transform: uppercase;
-    color: #727172 
+    color: #727172;
     font-size: 18px;
     padding-left: 50px;
 }
+    
 
 header h2 {
     width: 1000px;
